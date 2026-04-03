@@ -1,3 +1,5 @@
+我的世界网易版 MCDevTool 中 mcdbg Minecraft Python 调试器核心
+
 mcdbg 原版地址：
 https://github.com/Dofes/mcpdb
 
